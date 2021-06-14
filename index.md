@@ -14,7 +14,7 @@ Article à paraître dans la revue *Sens Public*: *Devenir-destination et photog
 
 ### Nombre de vues - Sun Tunnels
 
-Essai avec un diagramme de barres: https://observablehq.com/@artetsite/vues-sun-tunnels
+[Essai avec un diagramme de barres](https://observablehq.com/@artetsite/vues-sun-tunnels)
 
 Ligne avec points: 
 

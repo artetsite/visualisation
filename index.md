@@ -28,9 +28,25 @@ Premier essai pour la carte
 
 <iframe width="100%" height="581" frameborder="0"
   src="https://observablehq.com/embed/@artetsite/carte-sun-tunnels-5-photos?cells=chart%2Clegende"></iframe>
+Essai deux: couleurs + légende
+
+<iframe width="100%" height="756" frameborder="0"
+  src="https://observablehq.com/embed/@artetsite/carte-sun-tunnels-5-photos-tests?cells=chart%2Clegendaire"></iframe>
 
 
 
+<!--À faire Lena:-->
+
+​	<!--interactivité: afficher les infos supplémentaires avec le clic-->
+
+​	<!-- dans https://observablehq.com/@artetsite/carte-sun-tunnels-5-photos-test-textbox -->
+
+​	<!-- styles dans embedded cells -->
+
+### Références Observable & D3.js
+
+- dégradés de couleurs:  https://github.com/d3/d3-scale-chromatic
+- à propos d'échelles: https://observablehq.com/@d3/continuous-scales
 
 
 ## Inspiration

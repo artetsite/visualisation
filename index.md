@@ -75,4 +75,4 @@ Suite: fork de cette version pour les deux autres cartes à produire --> vendred
 
 ### Bibliographie
 
-- [Mèmoire](http://lenamk.site/memoire/) Lena Krause: en particulier le chapitre 3 pour les expérimentations avec des viusalisations interactives
+- [Mémoire](http://lenamk.site/memoire/) Lena Krause: en particulier le chapitre 3 pour les expérimentations avec des viusalisations interactives

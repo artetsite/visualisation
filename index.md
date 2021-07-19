@@ -35,8 +35,8 @@ Essai deux: couleurs + légende
 
 1ère version "finale": couleur + légende
 
-<iframe width="100%" height="756" frameborder="0"
-  src="https://observablehq.com/embed/@artetsite/carte-sun-tunnels-5-photos-complet?cells=chart%2Clegendaire"></iframe>
+<iframe width="100%" height="631" frameborder="0"
+  src="https://observablehq.com/embed/@artetsite/carte-sun-tunnels-5-photos-complet?cells=chart%2Cstyles"></iframe></iframe>
 
 Problèmes et observations: 
 - Palau: n'est pas un pays dans le fichier geojson employé

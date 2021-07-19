@@ -33,15 +33,19 @@ Essai deux: couleurs + légende
 <iframe width="100%" height="756" frameborder="0"
   src="https://observablehq.com/embed/@artetsite/carte-sun-tunnels-5-photos-tests?cells=chart%2Clegendaire"></iframe>
 
+1ère version "finale": couleur + légende
+
+<iframe width="100%" height="756" frameborder="0"
+  src="https://observablehq.com/@artetsite/carte-sun-tunnels-5-photos-complet"></iframe>
+
+Problèmes et observations: 
+- Palau: n'est pas un pays dans le fichier geojson employé
+- choix des couleurs et des détails graphiques à valider
+- implémentation avec SensPublic à tester
+
+Suite: fork de cette version pour les deux autres cartes à produire --> vendredi 23 juillet
 
 
-<!--À faire Lena:-->
-
-​	<!--interactivité: afficher les infos supplémentaires avec le clic-->
-
-​	<!-- dans https://observablehq.com/@artetsite/carte-sun-tunnels-5-photos-test-textbox -->
-
-​	<!-- styles dans embedded cells -->
 
 ### Références Observable & D3.js
 

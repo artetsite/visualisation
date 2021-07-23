@@ -1,5 +1,5 @@
 
-<link rel="stylesheet" href="./artetsite.css">
+<style rel="stylesheet" href="artetsite.css">
 
 # Visualisation de données Art et site
 

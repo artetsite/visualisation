@@ -1,6 +1,3 @@
-
-<style rel="stylesheet" href="artetsite.css">
-
 # Visualisation de données Art et site
 
 Page web de documentation du travail de visualisation des données art et site. 

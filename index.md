@@ -6,7 +6,11 @@
 Page web de documentation du travail de visualisation des données art et site. 
 
 
-Groupe de travail: Lena Krause, Christelle Proulx, Aziz Boughedir, Suzanne Paquet
+Groupe de travail: 
+- [Aziz Boughedir](https://histart.umontreal.ca/repertoire-departement/doctorants/doctorant/in/in31707/sg/Aziz%20Boughedir/)
+- [Lena Krause](https://lenamk.site/)
+- [Suzanne Paquet](https://histart.umontreal.ca/repertoire-departement/professeurs/professeur/in/in15408/sg/Suzanne%20Paquet/)
+- [Christelle Proulx](https://histart.umontreal.ca/repertoire-departement/doctorants/doctorant/in/in30304/sg/Christelle%20Proulx/)
 
 
 

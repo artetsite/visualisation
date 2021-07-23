@@ -104,7 +104,7 @@ Fonctionnement des échelles
 
 ### Bibliographie
 
-- [Créer un atlas numérique de l’architecture publique en France (1795-1840)](http://lenamk.site/memoire/), Lena Krause, 2021:d en particulier le chapitre 3 pour les expérimentations avec des viusalisations interactives
+- [Créer un atlas numérique de l’architecture publique en France (1795-1840)](http://lenamk.site/memoire/), Lena Krause, 2021: en particulier le chapitre 3 pour les expérimentations avec des viusalisations interactives
 
 
 ## Inspiration

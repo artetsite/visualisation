@@ -2,3 +2,57 @@
 ---
 
 @import "{{ site.theme }}";
+
+
+.tooltip {
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple   Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    background: #18304E;
+    border-radius: .1rem;
+    color: #fff;
+    display: block;
+    font-size: 11px;
+    max-width: 320px;
+    padding: .2rem .4rem;
+    position: absolute;
+    text-overflow: ellipsis;
+    white-space: pre;
+    z-index: 300;
+    visibility: hidden;
+  }
+
+.textbox {
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple   Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    background: #18304E;
+    border-radius: .1rem;
+    color: #fff;
+    font-size: 12px;
+    max-width: 320px;
+    padding: .2rem .4rem;
+    display: block;
+    position: absolute;
+    text-overflow: ellipsis;
+    z-index: 300;
+    visibility: hidden;
+  }
+
+.thumbnail{
+  max-width: 50px;  
+}
+
+.textbox h3 {
+  color: #fff;
+  font-size: 14px;
+  margin-block-start: 0.3em;
+  margin-block-end: 0.3em;
+}
+
+td {
+  text-align: center
+}
+
+#close {
+    float:right;
+    display:inline-block;
+    color: #fff;
+    font-size: 14px;
+}

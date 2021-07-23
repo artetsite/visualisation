@@ -1,7 +1,7 @@
 # Visualisation de données Art et site
 
 Page web de documentation du travail de visualisation des données art et site. 
-Notebooks [ObservableHQ](https://observablehq.com/@artetsite?tab=collections)
+Notebooks [ObservableHQ](https://observablehq.com/@artetsite)
 
 Groupe de travail: Lena Krause, Christelle Proulx, Aziz Boughedir, Suzanne Paquet
 
@@ -9,13 +9,17 @@ Groupe de travail: Lena Krause, Christelle Proulx, Aziz Boughedir, Suzanne Paque
 
 ## Article Sens Public
 
-Article à paraître dans la revue *Sens Public*: *Devenir-destination et photographies (en ligne) de quelques œuvres d’art : publics actuels du land art*. Christelle Proulx et Suzanne Paquet, Département d’histoire de l’art et d’études cinématographiques, Université de Montréal
+Article à paraître dans la revue *Sens Public*: «Devenir-destination et photographies (en ligne) de quelques œuvres d’art : publics actuels du land art», Christelle Proulx et Suzanne Paquet, Département d’histoire de l’art et d’études cinématographiques, Université de Montréal.
 
 Données: 
-- [SunTunnels](https://observablehq.com/@artetsite/carte-sun-tunnels-5-photos-complet)
+- [SunTunnels](https://gist.githubusercontent.com/artetsite/5b3f9862628ef44b4d4dab6f34ffff1d/raw/35ed6c1fa45f3b3e1493fa382c14049a98e8ed3d/gistfile1.txt)
 - [Broken Circle](https://gist.githubusercontent.com/artetsite/6e040a53d60d68215557bc2b2045e6b9/raw/4a2e31ba539f0ae6d33d5be908425add2b540b59/Broken%25202%2520photos%2520top%2520clean.csv)
-- Lightning Field
-- Images
+- [Lightning Field](https://gist.githubusercontent.com/artetsite/96d9ab8bc0f0b77d7f01d787d378ce94/raw/b47b3360bd3e35028a0f6625ebcc92d54e381987/Lightning%2520Field%25201%2520photo%2520top%2520clean.csv)
+- [Photos](https://gist.githubusercontent.com/artetsite/1d1f6bd9613c4599d436995c7a9d3c62)
+- Sources des photographies:
+  - _Sun Tunnels_, Nancy Holt (1973-1976): [1](https://flic.kr/p/yp1GgD), [2](https://flic.kr/p/y6MM6p), [3](https://flic.kr/p/yoiuQD), [4](https://flic.kr/p/y6GsPd), [5](https://flic.kr/p/yoiuQD)  
+  - _Broken Circle / Spiral Hill_, Robert Smithson, (1971): [6](https://flic.kr/p/cZLtQS), [7](https://flic.kr/p/cZLtQS)
+  - _The Lightning Field_, Walter de Maria (1977): [8](https://flic.kr/p/cZJQ9f)
 
 CSS:
 - [fichier CSS complémentaire](./artetsite.css) (pour les iframes)
@@ -34,12 +38,10 @@ Lien vers le [Notebook](https://observablehq.com/@artetsite/line-chart-fig2)
 ### Carte _Sun Tunnels_
 
 <iframe width="100%" height="756" frameborder="0"
-  src="https://observablehq.com/embed/@artetsite/carte-sun-tunnels-5-photos-complet?cells=styles%2Cchart%2Clegendaire"></iframe>
+  src="https://observablehq.com/embed/@artetsite/carte-sun-tunnels-5-photos-complet?cells=chart%2Clegendaire"></iframe>
 
-Problèmes et observations: 
-- Palau: n'est pas un pays dans le fichier geojson employé
-- choix des couleurs et des détails graphiques à valider
-- implémentation avec SensPublic à tester
+Problèmes et observations: Palau n'est pas un pays dans le fichier geojson employé
+
 
 
 Essais précédents: 
@@ -58,20 +60,20 @@ Lien vers le [Notebook](https://observablehq.com/@artetsite/line-chart-fig2)
 ### Carte _Lightning Field_ 
 
 <iframe width="100%" height="581" frameborder="0"
-  src="https://observablehq.com/embed/@artetsite/carte-lightning-field-2-photos?cells=chart%2Clegendaire"></iframe>
+  src="https://observablehq.com/embed/@artetsite/carte-lightning-field-1-photo/2?cells=chart%2Clegendaire"></iframe>
 
 
 Lien vers le [Notebook](https://observablehq.com/@artetsite/carte-broken-circle-2-photos)
 
 
-### Production d'une nouvelle carte
+## Production d'une nouvelle carte
 
 Étapes: 
-- _fork_ une carte qui fonctionne
-- changer le titre
-- changer l'url des données _Gist_
-- changer l'url des images
-- adapter l'échelle + choisir les couleurs
+- _Fork_ une carte qui fonctionne
+- Changer le titre
+- Changer l'url des données _Gist_
+- Changer l'url des images
+- Adapter l'échelle + choisir les couleurs
 
 
 ## Références
@@ -89,7 +91,7 @@ Fonctionnement des échelles
 
 ### Outils utilisés
 
-[D3.js](https://d3js.org/) dans de[Observable HQ](https://observablehq.com/@artetsite)
+[D3.js](https://d3js.org/) dans [Observable HQ](https://observablehq.com/@artetsite)
 
 [Github](https://github.com/artetsite): 
 
@@ -98,7 +100,7 @@ Fonctionnement des échelles
 
 ### Bibliographie
 
-- [Mémoire](http://lenamk.site/memoire/) Lena Krause: en particulier le chapitre 3 pour les expérimentations avec des viusalisations interactives
+- [Créer un atlas numérique de l’architecture publique en France (1795-1840)](http://lenamk.site/memoire/), Lena Krause, 2021:d en particulier le chapitre 3 pour les expérimentations avec des viusalisations interactives
 
 
 ## Inspiration

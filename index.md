@@ -1,7 +1,7 @@
 # Visualisation de données Art et site
 
 Page web de documentation du travail de visualisation des données art et site. 
-Notebooks [ObservableHQ](https://observablehq.com/@artetsite)
+
 
 Groupe de travail: Lena Krause, Christelle Proulx, Aziz Boughedir, Suzanne Paquet
 

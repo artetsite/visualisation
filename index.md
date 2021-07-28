@@ -42,7 +42,7 @@ Lien vers le [Notebook](https://observablehq.com/@artetsite/line-chart-fig2)
 ### Carte _Sun Tunnels_
 
 <iframe width="100%" height="756" frameborder="0"
-  src="https://observablehq.com/embed/@artetsite/carte-sun-tunnels-5-photos-complet?cells=chart%2Clegendaire"></iframe>
+  src="https://observablehq.com/embed/@artetsite/carte-sun-tunnels-5-photos-test-styles-embed?cells=chart%2Clegendaire"></iframe>
 
 Problèmes et observations: Palau n'est pas un pays dans le fichier geojson employé
 
@@ -114,5 +114,3 @@ Fonctionnement des échelles
 <iframe width="100%" height="1038" frameborder="0"
   src="https://observablehq.com/embed/@artetsite/pen-and-ink-stipple-effect?cells=test"></iframe>
 
-
-<style type="text/css" rel="stylesheet" href="./artetsite.css">
